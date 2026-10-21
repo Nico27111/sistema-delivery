@@ -23,3 +23,9 @@ Aplicación web desarrollada en **Python** utilizando **Streamlit** para la inte
 2. Abrir una terminal en la carpeta del proyecto e instalar las dependencias necesarias:
    ```bash
    pip install -r requirements.txt
+
+               USUARIOS Y CONTRASEÑAS:
+Administrador: admin        admin123
+Vendedor:      vende        vende123
+Repartidor:    repa         repa123
+Cliente:       cliente      cliente123
